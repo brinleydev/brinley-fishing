@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'Forlax'
+author 'Brinley Dev'
 description 'Fishing 4.0'
 version '1.0.0'
 
