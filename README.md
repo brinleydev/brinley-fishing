@@ -4,6 +4,9 @@
 
 https://youtu.be/mOkFBrrMW7A
 
+# DEPENDENCIES
+[NPC DIALOGUE](https://github.com/brinleydev/brinley-contacts)
+
 # README
 
 # NPC Dialog Cfg, if you change the bait or rod itm make sure to change them here as well!!!
